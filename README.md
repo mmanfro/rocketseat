@@ -1,3 +1,5 @@
 # Rocketseat starter course
-# NodeJS and ReactJS with MongoDB and Docker
- NodeJS back-end API with ReactJS frontend, using functional components instead of class components.<br/>
+<ul>
+ <li>NodeJS back-end API</li>
+ <li>ReactJS frontend, using functional components instead of class components</li>
+ <li>MongoDB running on a docker container</li>
